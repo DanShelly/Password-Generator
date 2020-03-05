@@ -8,8 +8,7 @@ Password is generating, clipboard not functional.
 
 
 ## Screenshot
-[Screenshot](HW3.png)
+![image](./assets/screenshot.png)
 
 ## Links
  https://danshelly.github.io/Password-Generator/
- https://github.com/DanShelly/Password-Generator

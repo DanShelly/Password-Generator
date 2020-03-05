@@ -59,6 +59,7 @@ function generate(passArr, length) {
     for (let i = 0; i < length; i++) {
         var whichArray = Math.floor(Math.random() * passArr.length);
         password += passArr[whichArray][Math.floor(Math.random() * passArr[whichArray].length)];
+        // password += passArr[Math.floor(Math.random() * passArr[whichArray].length)];
     }
     console.log(password)
     document.getElementById("showPass").innerHTML = password;
